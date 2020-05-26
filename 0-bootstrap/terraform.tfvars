@@ -14,10 +14,8 @@
  * limitations under the License.
  */
 
-org_id = "000000000000"
-
-billing_account = "000000-000000-000000"
-
-terraform_service_account = "org-terraform@example-project-2334.iam.gserviceaccount.com"
-
-default_region = "australia-southeast1"
+org_id               = "493718307818"
+billing_account      = "01B695-C346A4-605A25"
+group_org_admins     = "terraform-admins@cjtcorp.com"
+group_billing_admins = "gcp-billing-admins@cjtcorp.com"
+default_region       = "europe-north1"

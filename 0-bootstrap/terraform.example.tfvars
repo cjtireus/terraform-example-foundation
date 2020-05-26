@@ -14,12 +14,8 @@
  * limitations under the License.
  */
 
-org_id = "000000000000"
-
-billing_account = "000000-000000-000000"
-
-group_org_admins = "gcp-organization-admins@example.com"
-
+org_id               = "493718307818"
+billing_account      = "01B695-C346A4-605A25"
+group_org_admins     = "terraform-admins@cjtcorp.com"
 group_billing_admins = "gcp-billing-admins@example.com"
-
-default_region = "australia-southeast1"
+default_region       = "europe-north1"

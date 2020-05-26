@@ -14,14 +14,10 @@
  * limitations under the License.
  */
 
-billing_account = "000000-000000-000000"
-
-org_id = "000000000000"
-
-terraform_service_account = "org-terraform@example-project-2334.iam.gserviceaccount.com"
-
-default_region = "australia-southeast1"
-
+terraform_service_account = "org-terraform@cft-seed-3384.iam.gserviceaccount.com"
+org_id                    = "493718307818"
+billing_account           = "0147EE-B23400-431B99"
+default_region            = "europe-north1"
 /******************************************
   Private DNS Management (Optional)
  *****************************************/

@@ -14,10 +14,7 @@
  * limitations under the License.
  */
 
-terraform {
-  backend "gcs" {
-    bucket = "cft-tfstate-f42b"
-    prefix = "terraform/networks/state"
-  }
-}
-
+terraform_service_account = "org-terraform@cft-seed-3384.iam.gserviceaccount.com"
+org_id                    = "493718307818"
+billing_account           = "01B695-C346A4-605A25"
+default_region            = "europe-north1"
